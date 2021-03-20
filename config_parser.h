@@ -32,7 +32,6 @@ typedef struct{
 }config_t;
 
 /**
- * \fn parse:config
  * 
  * \brief A function that return the parametres stored in the config,json
  * 
@@ -40,7 +39,6 @@ typedef struct{
 config_t parse_config();
 
 /**
- * \fn parse_t
  * 
  * \brief A function that return the type of the output files
  * 
