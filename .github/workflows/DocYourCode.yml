@@ -14,7 +14,7 @@ jobs:
         author: Harrison Prest           # project author
         project: Prova python  # project name
         rootfile: Title            # project title
-        folders: ../ASD.py          # path of folders and files you want to document
+        folders: ../ASD.py ../ASD.js         # path of folders and files you want to document
         version: 1.0.0             # project version
         release: 1.0.0             # project release
         language: py                # language used
