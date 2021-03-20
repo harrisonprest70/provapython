@@ -1,0 +1,19 @@
+
+.. _program_listing_file_ASD.js:
+
+Program Listing for File ASD.js
+===============================
+
+|exhale_lsh| :ref:`Return to documentation for file <file_ASD.js>` (``ASD.js``)
+
+.. |exhale_lsh| unicode:: U+021B0 .. UPWARDS ARROW WITH TIP LEFTWARDS
+
+.. code-block:: cpp
+
+   /**
+    * @brief cnuvcnuvnu
+    * 
+    */
+   function main(){
+       a=1;
+   }
