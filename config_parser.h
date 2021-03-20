@@ -26,22 +26,28 @@ typedef enum {
  **/
 typedef struct{
 	parse_t type; 			/*!< The type for the output file extension */
-	char path[100][1024]; 	/*!< The paths of the files that we want to parse */
+	char path[100][1024]; 		/*!< The paths of the files that we want to parse */
 	int inputs_count; 		/*!< The number of input files */
 	int limit_warning; 		/*!< The limit of warnigs we can accept */
 }config_t;
 
 /**
  * 
- * \brief A function that return the parametres stored in the config,json
+ * \brief A function that parse the config.json 
+ *
+ * \return config_t All the parametres contained in the config.json
  * 
  **/
 config_t parse_config();
 
 /**
- * 
+ *
  * \brief A function that return the type of the output files
- * 
+ *
+ * \param t the type of output files that have to parse
+ *
+ * \return parse_t The type of the output files
+ *
  **/
 parse_t what_type(const char *t);
 
