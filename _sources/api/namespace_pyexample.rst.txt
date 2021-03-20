@@ -1,0 +1,23 @@
+
+.. _namespace_pyexample:
+
+Namespace pyexample
+===================
+
+
+.. contents:: Contents
+   :local:
+   :backlinks: none
+
+
+
+
+Detailed Description
+--------------------
+
+Documentation for this module.
+
+More details. 
+
+
+

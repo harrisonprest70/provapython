@@ -8,7 +8,7 @@ Class Hierarchy
    <ul class="treeView" id="class-treeView">
      <li>
        <ul class="collapsibleList">
-
+         <li>Namespace <a href="namespace_ASD.html#namespace-ASD">ASD</a><ul><li class="lastChild">Class <a href="classASD_1_1PyClass.html#exhale-class-classASD-1-1PyClass">PyClass</a></li></ul></li>
        </ul>
      </li><!-- only tree view element -->
    </ul><!-- /treeView class-treeView -->
